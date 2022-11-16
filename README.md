@@ -18,3 +18,4 @@
 | Ping Pub | https://exp.utsa.tech/jackal         | UTSA      |
 | Ping Pub | https://explorer.autostake.net       | AutoStake |
 | Ping Pub | https://explorer.agoranodes.com/jackal | AgoraNodes |
+| Ping Pub | https://main.anode.team/jackal | AlxVoy |
